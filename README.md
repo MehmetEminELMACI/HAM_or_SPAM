@@ -27,3 +27,5 @@ Deciding comments are HAM or SPAM
 - import matplotlib.pyplot as plt
     - %matplotlib inline
 - import seaborn as sns
+- from wordcloud import WordCloud
+- import nltk
